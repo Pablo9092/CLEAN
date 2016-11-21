@@ -5,7 +5,7 @@ fragment, que para su función. El autor de esta arquitectura esel Tio Bob y el 
 arquitectura es un conjunto de condisiones que se deben cumplir, para poder considerar una arquitectura limpia.  
 Alfinal estas condisiones dividiran el software en capas.  
 
-![](clean-architecture-diagram.png "Arquitectura CLEAN")
+![](clean-architecture-diagram.jpg "Arquitectura CLEAN")
 
 ####Definicion de las capas en el proyecto####
 
